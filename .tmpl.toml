@@ -1,0 +1,17 @@
+[tmpl]
+template = "python-research"
+version = 2
+
+[vars]
+project = "ds-ai-assignments"
+pkg = "ds_ai_assignments"
+description = ""
+license = "license-mit"
+python = "3.12"
+author = "ptonso"
+namespace = "ptonso"
+year = "2026"
+
+[databank]
+location = "absent"
+layout = "off"
