@@ -5,7 +5,6 @@
 ## Development
 
 ```
-python -m venv .venv
-.venv/bin/pip install -e ".[dev]"
-.venv/bin/pytest
+python -m venv venv
+pip install -r requirements.txt
 ```
