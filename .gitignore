@@ -1,4 +1,5 @@
 dq-lab-1/**/*.md
+!dq-lab-1/**/reflection.md
 nlp-lab-1/**/*.md
 
 # --- tmpl managed (keep your own entries above this line) ---
