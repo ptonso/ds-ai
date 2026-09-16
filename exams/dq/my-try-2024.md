@@ -45,13 +45,13 @@ c)
     b.
 
 d)
-    P = {"Pl", "ay", "-D", "oh"}
+    P = {"Pla", "lay", "ay-", "y-D", "-Do", "Doh"}
 e)
-    |P\cap Q| = |{"Pl", "ay"}| = 2
+    |P\cap Q| = |{"Pla", "lay"}| = 2
 
-f) |P \cup Q| = |{"Pl", "ay", "-D", "oh", " D", "oo"}| = 6
+f) |P \cup Q| = |{"Pla", "lay", "ay-", "y-D, "-Do", "Doh", "ay ", "y D", " Do", "Doo"}| = 10
 
-g) Jac(P,Q) = 2/6 = 1/3 = 0.33
+g) Jac(P,Q) = 2/10 = 1/5 = 0.2
 
 
 h)
