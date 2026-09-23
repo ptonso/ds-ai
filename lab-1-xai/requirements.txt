@@ -1,0 +1,13 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.5
+statsmodels>=0.14
+dice-ml>=0.11
+shap>=0.46
+torch>=2.3
+torchvision>=0.18
+captum>=0.7
+grad-cam>=1.5
+jupyter
