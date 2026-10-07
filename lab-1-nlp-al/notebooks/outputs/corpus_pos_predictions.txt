@@ -1,0 +1,9 @@
+# Sentence 1: The articles in this special section focus on using natural language generation techniques (NLG) and natural language processing (NLP) to build computational systems that generate reports and other kinds of text in human languages.
+The/DET articles/NOUN in/ADP this/DET special/ADJ section/NOUN focus/NOUN on/ADP using/VERB natural/NOUN language/NOUN generation/NOUN techniques/NOUN (/. NLG/NOUN )/. and/CONJ natural/ADJ language/NOUN processing/NOUN (/. NLP/NOUN )/. to/PRT build/VERB computational/NOUN systems/NOUN that/ADP generate/VERB reports/NOUN and/CONJ other/ADJ kinds/NOUN of/ADP text/NOUN in/ADP human/ADJ languages/NOUN ./.
+
+# Sentence 2: NLG uses analytics, AI, and NLP to obtain relevant information about non-linguistic data and to generate textual summaries and explanations of these data which help people understand and benefit from them.
+NLG/NOUN uses/VERB analytics/NOUN ,/. AI/VERB ,/. and/CONJ NLP/NOUN to/PRT obtain/VERB relevant/ADJ information/NOUN about/ADP non-linguistic/NUM data/NOUN and/CONJ to/PRT generate/VERB textual/NOUN summaries/NOUN and/CONJ explanations/NOUN of/ADP these/DET data/NOUN which/DET help/NOUN people/NOUN understand/VERB and/CONJ benefit/VERB from/ADP them/PRON ./.
+
+# Sentence 3: In this regard, NLG is a research field that addresses the data-value chain by using natural language as a tool for bridging the gap between raw data and valuable information communicated to users in a comprehensible way, adapted to their information needs.
+In/ADP this/DET regard/NOUN ,/. NLG/NOUN is/VERB a/DET research/NOUN field/NOUN that/ADP addresses/NOUN the/DET data-value/ADJ chain/NOUN by/ADP using/VERB natural/NOUN language/NOUN as/ADP a/DET tool/NOUN for/ADP bridging/NOUN the/DET gap/NOUN between/ADP raw/ADJ data/NOUN and/CONJ valuable/ADJ information/NOUN communicated/NOUN to/PRT users/VERB in/ADP a/DET comprehensible/NOUN way/NOUN ,/. adapted/VERB to/PRT their/PRON information/NOUN needs/NOUN ./.
+
